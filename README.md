@@ -1,4 +1,4 @@
-🧠 Pathology Image Classification for colorectal cancer detection using Continual Learning
+# 🧠 Pathology Image Classification for colorectal cancer detection using Continual Learning
 
 Using Experience Replay (ER) and Synaptic Intelligence (SI)
 
